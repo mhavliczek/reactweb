@@ -1,0 +1,67 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --orange: #e67e22;
+  --black: #1a1a1a;
+  --gray: #f8f9fa;
+}
+
+body {
+  background-color: white;
+  color: var(--black);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Custom Animation Classes */
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+.animate-fadeIn {
+  animation: fadeIn 0.5s ease-in-out;
+}
+
+@keyframes slideUp {
+  from { transform: translateY(20px); opacity: 0; }
+  to { transform: translateY(0); opacity: 1; }
+}
+
+.animate-slideUp {
+  animation: slideUp 0.5s ease-out;
+}
+
+/* Custom Classes */
+.btn-orange {
+  @apply bg-[#e67e22] text-white px-4 py-2 rounded hover:bg-[#d35400] transition-colors;
+}
+
+.btn-outline-orange {
+  @apply border border-[#e67e22] text-[#e67e22] px-4 py-2 rounded hover:bg-[#e67e22] hover:text-white transition-colors;
+}
+
+.card-custom {
+  @apply bg-white border border-[#e6e6e6] rounded-2xl p-8 shadow-md transition-all duration-300;
+}
+
+.card-custom:hover {
+  @apply shadow-lg -translate-y-1;
+}
+
+.doc-card {
+  @apply bg-white rounded-xl p-4 shadow-sm transition-transform duration-200;
+}
+
+.doc-card:hover {
+  @apply transform scale-[1.02];
+}
+
+.input-field {
+  @apply w-full px-4 py-2 border border-gray-300 rounded focus:outline-none focus:ring-2 focus:ring-[#e67e22] focus:border-transparent;
+}
+
+.form-label {
+  @apply block text-gray-700 text-sm font-semibold mb-2;
+}
