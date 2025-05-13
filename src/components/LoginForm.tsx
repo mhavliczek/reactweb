@@ -96,7 +96,7 @@ const LoginForm: React.FC = () => {
       
       <div className="mt-6 text-center text-sm text-gray-500">
         <p>Use para pruebas:</p>
-        <p>Usuario: <strong>admin</strong> | Contraseña: <strong>password</strong></p>
+        
       </div>
     </div>
   );
