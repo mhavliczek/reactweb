@@ -12,7 +12,7 @@ const Header: React.FC = () => {
         alt="Logo UDLA" 
         className="max-h-[70px] mx-auto mb-4" 
       />
-      <h1 className="text-[#1a1a1a] text-4xl font-bold animate-fadeIn">Proyectos de Título</h1>
+      <h1 className="text-[#1a1a1a] text-4xl font-bold animate-fadeIn">Proyecto de Título</h1>
       <h5 className="text-[#1a1a1a] text-xl font-bold mt-2">Escuela de Ingeniería</h5>
       <p className="text-gray-600">Facultad de Economía y Negocios</p>
       <p className="text-gray-600">Ingeniería Civil Industrial – Año 2025</p>
