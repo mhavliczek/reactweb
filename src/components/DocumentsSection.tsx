@@ -22,7 +22,8 @@ const DocumentsSection: React.FC<DocumentsSectionProps> = ({ documents }) => {
 
   return (
     <section className="bg-[#f8f9fa] p-8 rounded-2xl mt-12 animate-fadeIn">
-      <h4 className="text-2xl font-bold text-center mb-8">Documentos Del Proyecto</h4>
+      <h4 className="text-2xl font-bold text-center mb-4">Documentos Del Proyecto</h4>
+      <h5 className="text-xl font-semibold text-[#e67e22] text-center mb-8">Entrega - Catedra 1</h5>
       
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
         {documents.map((doc, index) => {
