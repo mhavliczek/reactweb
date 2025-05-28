@@ -11,7 +11,7 @@ const DashboardPage: React.FC = () => {
     id: '1',
     group: 'Grupo 9',
     title: 'Análisis Tribológico Predictivo Muestra Aceite TEST',
-    link: 'http://3.140.57.67:8501',
+    link: 'https://proyectov1-0.onrender.com',
     company: 'RT Codelco',
     description: 'Propuesta de Plan de Mantenimiento Predictivo para Camiones CAEX Flota Caterpillar - Komatsu - División Radomiro Tomic',
     members: [
