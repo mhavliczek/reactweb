@@ -3,11 +3,16 @@ export interface User {
   password: string;
 }
 
+export interface ProjectLink {
+  url: string;
+  description: string;
+}
+
 export interface Project {
   id: string;
   group: string;
   title: string;
-  link: string;
+  links: ProjectLink[];
   company: string;
   description: string;
   members: Member[];

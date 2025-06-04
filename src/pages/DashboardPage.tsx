@@ -10,8 +10,25 @@ const DashboardPage: React.FC = () => {
   const project: Project = {
     id: '1',
     group: 'Grupo 9',
-    title: 'Análisis Tribológico Predictivo Muestra Aceite TEST',
-    link: 'https://proyectov1-0.onrender.com',
+    title: 'Propuesta de Plan Mantenimiento Predictivo Tribologico a flota camiones CAEX',
+    links: [
+      {
+        url: 'https://proyectov1-0.onrender.com',
+        description: 'Dashboard Principal'
+      },
+      {
+        url: 'https://proyectov1-c-fqt2.onrender.com',
+        description: 'Dashboard Técnico'
+      },
+      {
+        url: 'https://proyectov1-c.onrender.com',
+        description: 'Dashboard Ejecutivo'
+      },
+      {
+        url: 'https://proyectov1-economico.onrender.com',
+        description: 'Dashboard Económico'
+      }
+    ],
     company: 'RT Codelco',
     description: 'Propuesta de Plan de Mantenimiento Predictivo para Camiones CAEX Flota Caterpillar - Komatsu - División Radomiro Tomic',
     members: [
