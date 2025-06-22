@@ -12,7 +12,8 @@ const LoginPage: React.FC = () => {
       <main 
         className="flex-grow flex items-center justify-center px-4 py-12 bg-cover bg-center bg-no-repeat"
         style={{
-          backgroundImage: 'linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./src/images/minero1.jpg")',
+          backgroundImage: 'linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/images/minero1.jpg")',
+          backgroundPosition: 'center',
           backgroundSize: 'cover'
         }}
       >
