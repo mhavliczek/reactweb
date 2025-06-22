@@ -1,0 +1,164 @@
+[33mcommit 3f44936b400bc2db46c1c67348868d2fdcab8c0c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: mhavliczek <mhavliczek@gmail.com>
+Date:   Sun Jun 22 01:47:14 2025 -0400
+
+    raro
+
+[33mcommit cea659dfda1dba5b73f38007c41e64e4a99f75cc[m
+Author: mhavliczek <mhavliczek@gmail.com>
+Date:   Sun Jun 22 01:41:52 2025 -0400
+
+    fix
+
+[33mcommit c780d754587286056b169c2ad8b0e02c383a5824[m
+Author: mhavliczek <mhavliczek@gmail.com>
+Date:   Sun Jun 22 01:38:26 2025 -0400
+
+    build
+
+[33mcommit f01bcfc15bfd834b3d72e1d8a8067e5751515ae0[m
+Author: mhavliczek <mhavliczek@gmail.com>
+Date:   Sun Jun 22 01:35:39 2025 -0400
+
+    bkp
+
+[33mcommit 2d3862b9b0b8699fbd9fa1093c4386d4ab91ed95[m
+Author: mhavliczek <mhavliczek@gmail.com>
+Date:   Sun Jun 22 01:32:57 2025 -0400
+
+    minero1
+
+[33mcommit ab0443f495c03018a1857bbd5df94aa175f3bdbd[m
+Author: mhavliczek <mhavliczek@gmail.com>
+Date:   Sun Jun 22 01:22:24 2025 -0400
+
+    Revert "logo"
+    
+    This reverts commit f3f7bc0c59c2cbbc0ad4b4d9330bd40bb868b7af.
+
+[33mcommit f3f7bc0c59c2cbbc0ad4b4d9330bd40bb868b7af[m
+Author: mhavliczek <mhavliczek@gmail.com>
+Date:   Sun Jun 22 01:18:47 2025 -0400
+
+    logo
+
+[33mcommit 32708d566549fa0b4ce05eeb4b02748e380c123e[m
+Author: mhavliczek <mhavliczek@gmail.com>
+Date:   Sun Jun 22 00:27:25 2025 -0400
+
+    actualizacion
+
+[33mcommit 5d02260fc63c4ce8ed14e69d849a0f29e18e24bb[m
+Author: mhavliczek <mhavliczek@gmail.com>
+Date:   Tue Jun 3 21:21:43 2025 -0400
+
+    cambios
+
+[33mcommit e447595d872e68b2182ae0b39564104708810a47[m
+Author: mhavliczek <mhavliczek@gmail.com>
+Date:   Tue Jun 3 21:04:10 2025 -0400
+
+    web
+
+[33mcommit 8435d32b7b69bbe211c82207f4adc1c214a8ff83[m
+Author: mhavliczek <mhavliczek@gmail.com>
+Date:   Tue May 27 23:28:02 2025 -0400
+
+    cambio en render
+
+[33mcommit b1813f6e6880b791e7809537218d2202bf5e82d8[m
+Author: mhavliczek <mhavliczek@gmail.com>
+Date:   Sun May 25 15:27:05 2025 -0400
+
+    build
+
+[33mcommit b25087fed4237cc85884a604411ef071d50519a0[m
+Merge: 540dbd3 092add4
+Author: mhavliczek <mhavliczek@gmail.com>
+Date:   Wed May 14 00:48:33 2025 -0400
+
+    Merge branch 'main' of https://github.com/mhavliczek/reactweb
+
+[33mcommit 092add43b1cc17d374c6e10dda2b60ae7f1a16da[m
+Author: mhavliczek <32149001+mhavliczek@users.noreply.github.com>
+Date:   Wed May 14 00:47:54 2025 -0400
+
+    Deleted vite.config.ts.timestamp-1747198068684-3416ca9097d1b8.mjs
+
+[33mcommit 665a98f2f09f9e77abb1178290a91e239c5ec7cc[m
+Author: mhavliczek <32149001+mhavliczek@users.noreply.github.com>
+Date:   Wed May 14 00:47:51 2025 -0400
+
+    Added vite.config.ts.timestamp-1747198068684-3416ca9097d1b8.mjs
+
+[33mcommit 540dbd3886828ff08b94832836cab887318a9001[m
+Author: mhavliczek <mhavliczek@gmail.com>
+Date:   Wed May 14 00:46:32 2025 -0400
+
+    Catedra  1 Colapsable
+
+[33mcommit 8ab11b70b404406bf4217354f1f7118094f1faba[m
+Author: mhavliczek <32149001+mhavliczek@users.noreply.github.com>
+Date:   Wed May 14 00:43:55 2025 -0400
+
+    Make documents section collapsible
+
+[33mcommit 6d40d0b878e9b05d1e588bcb42b85938649668a9[m
+Author: mhavliczek <32149001+mhavliczek@users.noreply.github.com>
+Date:   Wed May 14 00:38:14 2025 -0400
+
+    Update DocumentsSection to group files
+
+[33mcommit d55d48f0d65cb2fd2435f30de83eae9cf7845af4[m
+Author: mhavliczek <32149001+mhavliczek@users.noreply.github.com>
+Date:   Wed May 14 00:36:20 2025 -0400
+
+    Deleted vite.config.ts.timestamp-1747197375399-66748d52e818c.mjs
+
+[33mcommit 95a2999223c57ad230da4bac4fb9a43d3ec4a731[m
+Author: mhavliczek <32149001+mhavliczek@users.noreply.github.com>
+Date:   Wed May 14 00:36:17 2025 -0400
+
+    Added vite.config.ts.timestamp-1747197375399-66748d52e818c.mjs
+
+[33mcommit 9f095ce3ece91799d61ae4b844f23dd058958927[m
+Author: mhavliczek <mhavliczek@gmail.com>
+Date:   Wed May 14 00:30:54 2025 -0400
+
+    cambios vagos
+
+[33mcommit 5d60aef4b8cc2de088ab22337e85b06f2cba5024[m
+Author: mhavliczek <mhavliczek@gmail.com>
+Date:   Wed May 14 00:26:57 2025 -0400
+
+    Footer
+
+[33mcommit a8f4e82a0d20b330ce14066e1e1369b6af9124b6[m
+Author: mhavliczek <mhavliczek@gmail.com>
+Date:   Wed May 14 00:18:18 2025 -0400
+
+    se arregla
+
+[33mcommit 1a8e53950ba186760764244ced873d925029f2dc[m
+Author: mhavliczek <mhavliczek@gmail.com>
+Date:   Tue May 13 18:42:01 2025 -0400
+
+    cambios1
+
+[33mcommit 3c3c940ce0f24fce9a8887ba06bb2090834c88c6[m
+Author: mhavliczek <mhavliczek@gmail.com>
+Date:   Tue May 13 18:41:49 2025 -0400
+
+    cambios
+
+[33mcommit cc6d58ecf7e4297ad72be004caafefc881397c7b[m
+Author: mhavliczek <mhavliczek@gmail.com>
+Date:   Mon May 12 21:45:27 2025 -0400
+
+    cambios nuevos
+
+[33mcommit ee00e210edbe8cc63b17debeaffbad6972e25245[m
+Author: mhavliczek <mhavliczek@gmail.com>
+Date:   Sun May 11 21:36:26 2025 -0400
+
+    Commit inicial de react
