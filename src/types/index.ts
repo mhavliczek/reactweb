@@ -26,7 +26,7 @@ export interface Member {
 export interface Document {
   filename: string;
   path: string;
-  type: 'image' | 'pdf' | 'csv';
+  type: 'image' | 'pdf' | 'csv' | 'docx';
 }
 
 export interface AuthContextType {
