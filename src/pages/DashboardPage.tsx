@@ -15,6 +15,10 @@ const DashboardPage: React.FC = () => {
     title: 'Propuesta de Plan Mantenimiento Predictivo Tribologico a flota camiones CAEX',
     links: [
       {
+        url: 'https://proyectov1-c-gaj4.onrender.com',
+        description: 'Cuadro Metricas Importantes'
+      },
+      {
         url: 'https://proyectov1-0.onrender.com',
         description: 'Dashboard Principal'
       },
